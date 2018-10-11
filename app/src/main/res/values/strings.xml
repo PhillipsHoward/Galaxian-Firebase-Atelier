@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Galaxian-Atelier-Firebase</string>
+    <string name="nouveau_profil">Créer nouveau profil</string>
+    <string name="title_activity_create_player">CreatePlayerActivity</string>
+    <string name="name">Name</string>
+    <string name="best_score">Best Score</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="consulter_le_classement">Consulter le classement</string>
+    <string name="meilleur_joueur">Meilleur joueur :</string>
+    <string name="son_score">Son score :</string>
+    <string name="nombidon">NomBidon</string>
+    <string name="_666">666</string>
+    <string name="please_fill">S\'il-vous-plait, renseignez toutes les informations demandées !</string>
+    <string name="the_player">"Le joueur/la joueuse "</string>
+    <string name="has_been_registered">" a été enregistré !"</string>
+    <string name="please_valid_score">Veuillez renseigner un score valide s\'il-vous-plait ! (Sinon ça va chier)</string>
 </resources>
